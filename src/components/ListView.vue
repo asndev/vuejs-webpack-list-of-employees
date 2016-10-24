@@ -1,6 +1,8 @@
 <template>
   <div class="listview">
-    <input type="search" id="personSearch">
+    <div class="searchContainer">
+      <input type="search" id="personSearch" placeholder="Filter ...">
+    </div>
     <div id="personContent">
       <router-link
         v-for="person in data"
@@ -33,13 +35,21 @@ export default {
   height: 100%;
 }
 
+.searchContainer {
+  width: 100%;
+  overflow: hidden;
+}
+
 #personContent {
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
 }
 
 #personSearch {
+  float: right;
   width: 100%;
+  max-width: 300px;
   padding: 6px 12px;
   height: 34px;
   font-size: 14px;
