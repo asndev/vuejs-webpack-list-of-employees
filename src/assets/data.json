@@ -1,0 +1,12 @@
+{
+  "data": [
+    { "id": 1, "first": "Peter", "last": "Pan", "email": "foo@bar.com", "img": "1.jpg" },
+    { "id": 2, "first": "Bob", "last": "Ross", "email": "foo@bar.com", "img": "2.jpg" },
+    { "id": 3, "first": "John", "last": "Doe", "email": "foo@bar.com", "img": "3.jpg" },
+    { "id": 4, "first": "Valentina", "last": "Lucio", "email": "foo@bar.com", "img": "4.jpg" },
+    { "id": 5, "first": "Foo", "last": "Bar", "email": "foo@bar.com", "img": "5.jpg" },
+    { "id": 6, "first": "Hello", "last": "World", "email": "foo@bar.com", "img": "6.jpg" },
+    { "id": 7, "first": "John", "last": "Williams", "email": "foo@bar.com", "img": "7.jpg" },
+    { "id": 8, "first": "Lisa", "last": "Wong", "email": "foo@bar.com", "img": "8.jpg" }
+  ]
+}
