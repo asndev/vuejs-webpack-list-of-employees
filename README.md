@@ -1,4 +1,4 @@
-[![Build Status](http://ci.asn.ninja/job/vuejs-github-ci/badge/icon)](http://ci.asn.ninja/job/vuejs-github-ci/)
+[![Build Status](http://ci.asn.ninja/buildStatus/icon?job=vuejs-github-ci)](http://ci.asn.ninja/job/vuejs-github-ci/)
 
 # list-of-employees
 
