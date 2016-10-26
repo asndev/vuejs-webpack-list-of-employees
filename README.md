@@ -1,4 +1,4 @@
-todo: ci logo here.
+todo: ci logo here. (ping)
 
 # list-of-employees
 
