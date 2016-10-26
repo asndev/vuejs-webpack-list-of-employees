@@ -1,4 +1,4 @@
-todo: ci logo here. (ping)
+[![Build Status](http://ci.asn.ninja/job/vuejs-github-ci/badge/icon)](http://ci.asn.ninja/job/vuejs-github-ci/)
 
 # list-of-employees
 
