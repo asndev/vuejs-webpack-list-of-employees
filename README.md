@@ -4,6 +4,9 @@
 
 > A list of employees
 
+![Example](/demo.gif?raw=true "")
+
+
 ## Build Setup
 
 ``` bash
